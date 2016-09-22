@@ -3,7 +3,7 @@ Email: yul206@eng.ucsd.edu
 
 ## About me
 I am a 5-th year Computer Science PhD stduent in [UC San Diego](http://www.cs.ucsd.edu/) (UCSD). My advisors are [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/).
-I am currently working on Verification of Data-driven workflows, which is a research direction that lies in the intersection of Database Theory and Software Model Checking, with applications in Business Process Management etc. Before joining UCSD, I obtained my undergradate degree in Computer Science from [Hong Kong University of Science and Technology](www.ust.hk). During my undergraduate, I was also interested in Data Mining.
+I am currently working on Verification of Data-driven workflows, which is a research direction that lies in the intersection of Database Theory and Software Model Checking, with applications in Business Process Management etc. Before joining UCSD, I obtained my undergradate degree in Computer Science from [Hong Kong University of Science and Technology](http://www.ust.hk). During my undergraduate, I was also interested in Data Mining.
 
 I was an intern in [Google Research](https://research.google.com/) during 2013 Summer and in [Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) during 2014 Summer.
 
