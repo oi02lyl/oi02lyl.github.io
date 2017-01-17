@@ -10,7 +10,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 ## Publications
 
 ### Conference Papers
-* Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In Proceedings of the 35th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems (PODS '16). ACM, New York, NY, USA, 179-194. [[Link]](https://cseweb.ucsd.edu/~vianu/pods16.pdf) [[ArXiv]](http://arxiv.org/abs/1604.00967) [[Slides]](https://www.dropbox.com/s/bxzy9me90s906h7/pods16.pptx?dl=0)
+* Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In Proceedings of the 35th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems (PODS '16). ACM, New York, NY, USA, 179-194. [[Link]](https://cseweb.ucsd.edu/~vianu/pods16.pdf) [[ArXiv]](http://arxiv.org/abs/1604.00967) [[Slides]](https://www.dropbox.com/s/bxzy9me90s906h7/pods16.pptx?dl=0)[[Code]](https://github.com/oi02lyl/has-verifier)
 
 ### Journal Papers
 * Qiong Fang, Wilfred Ng, Jianlin Feng, **Yuliang Li**, "Mining Order-Preserving SubMatrices from
