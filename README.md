@@ -11,6 +11,8 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ## Publications
 
+### PhD Thesis
+* **Yuliang Li**, "Verification of Hierarchical Data-Driven Workflows", 2018 [[link]](https://www.dropbox.com/s/2ulype7wjnzqfwi/thesis.pdf?dl=0) [[slides]](https://www.dropbox.com/s/ybc7vy30395cjdi/dissertation.pptx?dl=0)
 
 ### Pre-print
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
