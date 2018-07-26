@@ -4,7 +4,7 @@ Email: [yul206@eng.ucsd.edu](mailto:yul206@eng.ucsd.edu)
 
 ## About me
 
-I recently join the [Megagon Labs](http://www.megagon.ai/) as a research scientist.
+I recently joined the [Megagon Labs](http://www.megagon.ai/) as a research scientist.
 
 I am a PhD graduate from [UC San Diego](http://www.cs.ucsd.edu/) (UCSD). My advisors are [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/).
 I am currently working on Verification of Data-driven workflows, a research direction that lies in the intersection of Database Theory, Software Model Checking and Business Process Management. Recently, I am also interested in high-level specification languages and automatic verification for smart contracts and Blockchain.
