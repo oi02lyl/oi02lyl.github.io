@@ -4,7 +4,7 @@ Email: [yul206@eng.ucsd.edu](mailto:yul206@eng.ucsd.edu)
 
 ## About me
 
-I recently joined the [Megagon Labs](http://www.megagon.ai/) as a research scientist.
+I joined the [Megagon Labs](http://www.megagon.ai/) as a research scientist.
 
 I am a PhD graduate from [UC San Diego](http://www.cs.ucsd.edu/) (UCSD). My advisors are [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/).
 I am currently working on Verification of Data-driven workflows, a research direction that lies in the intersection of Database Theory, Software Model Checking and Business Process Management. Recently, I am also interested in high-level specification languages and automatic verification for smart contracts and Blockchain.
@@ -23,7 +23,7 @@ I was an intern in [IBM Thomas J. Watson Research Center](http://www.research.ib
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Conference Papers
-* Tara Astigarraga, Xiaoyan Chen, Yaoliang Chen, Jingxiao Gu, Richard Hull, Limei Jiao, **Yuliang Li**, and Petr Novotny, "Empowering Business-Level Blockchain Users with a Rules Framework for Smart Contracts", To Appear in ICSOC 2018
+* Tara Astigarraga, Xiaoyan Chen, Yaoliang Chen, Jingxiao Gu, Richard Hull, Limei Jiao, **Yuliang Li**, and Petr Novotny, "Empowering Business-Level Blockchain Users with a Rules Framework for Smart Contracts", In ICSOC 2018 [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_8)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "VERIFAS: A Practical Verifier for Artifact Systems", In VLDB 2018 [[Link]](http://www.vldb.org/pvldb/vol11/p283-li.pdf) [[ArXiv]](https://arxiv.org/abs/1705.10007) [[Slides]](https://www.dropbox.com/s/6uahinfycj1nowm/db-talk.pptx?dl=0) [[Code]](https://github.com/oi02lyl/has-verifier)
 * **Yuliang Li**, "Practical Verification of Hierarchical Artifact Systems," In VLDB PhD Workshop 2017 [[Link]](http://ceur-ws.org/Vol-1882/paper14.pdf) [[Slides]](https://www.dropbox.com/s/atemjpw7eyht1h2/vldb-phd-yuliang-li.pptx?dl=0).
 * Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In PODS 2016 [[Link]](https://cseweb.ucsd.edu/~vianu/pods16.pdf) [[ArXiv]](http://arxiv.org/abs/1604.00967) [[Slides]](https://www.dropbox.com/s/bxzy9me90s906h7/pods16.pptx?dl=0)
