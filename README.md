@@ -23,6 +23,7 @@ I was an intern in [IBM Thomas J. Watson Research Center](http://www.research.ib
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Conference Papers
+* **Yuliang Li**, Jianguo Wang, Benjamin Pullman, Nuno Bandeira, Yannis Papakonstantinou, "Index-based High-dimensional Cosine Threshold Querying with Optimality Guarantees", To Appear in ICDT 2019
 * Tara Astigarraga, Xiaoyan Chen, Yaoliang Chen, Jingxiao Gu, Richard Hull, Limei Jiao, **Yuliang Li**, and Petr Novotny, "Empowering Business-Level Blockchain Users with a Rules Framework for Smart Contracts", In ICSOC 2018 [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_8)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "VERIFAS: A Practical Verifier for Artifact Systems", In VLDB 2018 [[Link]](http://www.vldb.org/pvldb/vol11/p283-li.pdf) [[ArXiv]](https://arxiv.org/abs/1705.10007) [[Slides]](https://www.dropbox.com/s/6uahinfycj1nowm/db-talk.pptx?dl=0) [[Code]](https://github.com/oi02lyl/has-verifier)
 * **Yuliang Li**, "Practical Verification of Hierarchical Artifact Systems," In VLDB PhD Workshop 2017 [[Link]](http://ceur-ws.org/Vol-1882/paper14.pdf) [[Slides]](https://www.dropbox.com/s/atemjpw7eyht1h2/vldb-phd-yuliang-li.pptx?dl=0).
