@@ -19,6 +19,8 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Conference Papers
+
+* Xiaolan Wang, Yoshihiko Suhara, Natalie Nuno, **Yuliang Li**, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kandogan and Wang-Chiew Tan, "ExtremeReader: An interactive explorer for customizable and explainable review summarization", In theWebConf (WWW) 2020 (Demo track)
 * Zhengjie Miao, **Yuliang Li**, Xiaolan Wang, Wang-Chiew Tan, "Snippext: Semi-supervised Opinion Mining with Augmented Data", In theWebConf (WWW) 2020 [[ArXiv]](https://arxiv.org/abs/2002.03049) [[Slides]](https://www.dropbox.com/s/p5tuc9964f1nrim/opinedb.pptx?dl=0) [[Code]](https://github.com/rit-git/Snippext_public)
 * Xiong Zhang, Jonathan Engel, Sara Evensen, **Yuliang Li**, Çagatay Demiralp, Wang-Chiew Tan, "Teddy: A System for Interactive Review Analysis", In CHI 2020 [[Paper]](https://hci.stanford.edu/~cagatay/projects/teddy/Teddy-CHI20.pdf) [[Video]](https://vimeo.com/384454119)  [[Code]](https://github.com/megagonlabs/teddy)
 * **Yuliang Li**, Aaron Xixuan Feng, Jinfeng Li, Saran Mumick, Alon Halevy, Vivian Li, Wang-Chiew Tan, "Subjective Databases", In PVLDB 2019 (invited to VLDBJ as "one of the best paper candidates")[[ArXiv]](https://arxiv.org/abs/1902.09661) [[Slides]](https://www.dropbox.com/s/p5tuc9964f1nrim/opinedb.pptx?dl=0)  [[Poster]](https://www.dropbox.com/s/own5fdexbaguwo9/vldb_poster.pptx?dl=0)
