@@ -1,6 +1,6 @@
 # Yuliang Li
 
-Email: [yul206@eng.ucsd.edu](mailto:yul206@eng.ucsd.edu)
+Email: [yuliang@megagon.ai](mailto:yuliang@megagon.ai)
 
 ## About me
 
