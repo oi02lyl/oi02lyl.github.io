@@ -1,4 +1,3 @@
-
 # Yuliang Li
 
 Email: [yul206@eng.ucsd.edu](mailto:yul206@eng.ucsd.edu)
@@ -16,6 +15,9 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * **Yuliang Li**, "Verification of Hierarchical Data-Driven Workflows", 2018 [[link]](https://escholarship.org/uc/item/00q5p2t3) [[slides]](https://www.dropbox.com/s/ybc7vy30395cjdi/dissertation.pptx?dl=0)
 
 ### Pre-print
+
+* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models" [[ArXiv]](https://arxiv.org/list/cs.DB/recent)
+* Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems" [[ArXiv]](https://arxiv.org/abs/2003.13968)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Conference Papers
