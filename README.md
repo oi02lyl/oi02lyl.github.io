@@ -16,7 +16,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ### Pre-print
 
-* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/list/cs.DB/recent)
+* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.00584)
 * Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2003.13968)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
