@@ -11,14 +11,6 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ## Publications
 
-### PhD Thesis
-* **Yuliang Li**, "Verification of Hierarchical Data-Driven Workflows", 2018 [[link]](https://escholarship.org/uc/item/00q5p2t3) [[slides]](https://www.dropbox.com/s/ybc7vy30395cjdi/dissertation.pptx?dl=0)
-
-### Pre-print
-* Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, **Yuliang Li**, Yoshihiko Suhara, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan, "Enhancing Review Comprehension with Domain-Specific Commonsense.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.03020)
-* Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, **Yuliang Li**, Jinfeng Li, Wang-Chiew Tan, "ExplainIt: Explainable Review Summarization with Opinion Causality Graphs.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2006.00119)
-* Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2003.13968)
-* **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Conference Papers
 * **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", To Appear in VLDB, 2021 [[ArXiv]](https://arxiv.org/abs/2004.00584)
@@ -33,6 +25,15 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "VERIFAS: A Practical Verifier for Artifact Systems", In PVLDB 2018 [[Link]](http://www.vldb.org/pvldb/vol11/p283-li.pdf) [[ArXiv]](https://arxiv.org/abs/1705.10007) [[Slides]](https://www.dropbox.com/s/6uahinfycj1nowm/db-talk.pptx?dl=0) [[Code]](https://github.com/oi02lyl/has-verifier)
 * **Yuliang Li**, "Practical Verification of Hierarchical Artifact Systems," In VLDB PhD Workshop 2017 [[Link]](http://ceur-ws.org/Vol-1882/paper14.pdf) [[Slides]](https://www.dropbox.com/s/atemjpw7eyht1h2/vldb-phd-yuliang-li.pptx?dl=0).
 * Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In PODS 2016 [[Link]](https://cseweb.ucsd.edu/~vianu/pods16.pdf) [[ArXiv]](http://arxiv.org/abs/1604.00967) [[Slides]](https://www.dropbox.com/s/bxzy9me90s906h7/pods16.pptx?dl=0)
+
+### PhD Thesis
+* **Yuliang Li**, "Verification of Hierarchical Data-Driven Workflows", 2018 [[link]](https://escholarship.org/uc/item/00q5p2t3) [[slides]](https://www.dropbox.com/s/ybc7vy30395cjdi/dissertation.pptx?dl=0)
+
+### Pre-print
+* Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, **Yuliang Li**, Yoshihiko Suhara, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan, "Enhancing Review Comprehension with Domain-Specific Commonsense.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.03020)
+* Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, **Yuliang Li**, Jinfeng Li, Wang-Chiew Tan, "ExplainIt: Explainable Review Summarization with Opinion Causality Graphs.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2006.00119)
+* Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2003.13968)
+* **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Journal Papers
 * **Yuliang Li**, Aaron Xixuan Feng, Jinfeng Li, Shuwei Chen, Saran Mumick, Alon Halevy, Vivian Li, Wang-Chiew Tan, "Querying Subjective Data", To appear in VLDB Journal 2020 (invited paper) [[ArXiv]](https://arxiv.org/abs/1902.09661)
