@@ -4,9 +4,9 @@ Email: [yuliang@megagon.ai](mailto:yuliang@megagon.ai)
 
 ## About me
 
-I am a research scientist of the [Megagon Labs](http://www.megagon.ai/). Before joining the Megagon Labs, I was a PhD graduate from [UC San Diego](http://www.cs.ucsd.edu/) (UCSD). My advisors are [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/). I have worked on a wide variety of research topics. My PhD thesis is on the Verification of Data-driven workflows, a research direction that lies in the intersection of Database Theory, Software Model Checking and Business Process Management. A related project is to study high-level specification languages and automatic verification for smart contracts and Blockchain. I am recently more interested in subjective databases, a fascinating topic that combines data management and natural language processing. Before joining UCSD, I obtained my undergraduate degree in Computer Science from [Hong Kong University of Science and Technology](http://www.ust.hk). During my undergraduate, I was also interested in Data Mining.
+I am a senior research scientist at the [Megagon Labs](http://www.megagon.ai/). Before joining the Megagon Labs, I was a PhD graduate from [UC San Diego](http://www.cs.ucsd.edu/) (UCSD). My advisors are [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/). I have worked on a wide variety of research topics. My PhD thesis is on the Verification of Data-driven workflows, a research direction that lies in the intersection of Database Theory, Software Model Checking, and Business Process Management. A related project is to study high-level specification languages and automatic verification for smart contracts and Blockchain. I am recently more interested in subjective databases, a fascinating topic that combines data management and natural language processing. Before joining UCSD, I obtained my undergraduate degree in Computer Science from [Hong Kong University of Science and Technology](http://www.ust.hk). During my undergraduate, I was also interested in Data Mining.
 
-I was an intern in [Google Research](https://research.google.com/) during 2013 Summer and in [Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) during 2014 Summer. I was an intern in [IBM Thomas J. Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml) during 2017 Summer.
+I was an intern in [Google Research](https://research.google.com/) during 2013 Summer and in [Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) during 2014 Summer. I was an intern at [IBM Thomas J. Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml) during 2017 Summer.
 
 
 ## Publications
@@ -15,13 +15,14 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * **Yuliang Li**, "Verification of Hierarchical Data-Driven Workflows", 2018 [[link]](https://escholarship.org/uc/item/00q5p2t3) [[slides]](https://www.dropbox.com/s/ybc7vy30395cjdi/dissertation.pptx?dl=0)
 
 ### Pre-print
-
-* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.00584)
+* Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, **Yuliang Li**, Yoshihiko Suhara, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan, "Enhancing Review Comprehension with Domain-Specific Commonsense.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.03020)
+* Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, **Yuliang Li**, Jinfeng Li, Wang-Chiew Tan, "ExplainIt: Explainable Review Summarization with Opinion Causality Graphs.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2006.00119)
 * Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2003.13968)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Conference Papers
-
+* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", To Appear in VLDB, 2021 [[ArXiv]](https://arxiv.org/abs/2004.00584)
+* Jinfeng Li, **Yuliang Li**, Xiaolan Wang, Wang-Chiew Tan, "Deep or Simple Models for Semantic Tagging? It Depends on your Data [Experiments]", In VLDB 2020 [[ArXiv]](https://arxiv.org/abs/2007.05651)
 * Xiaolan Wang, Yoshihiko Suhara, Natalie Nuno, **Yuliang Li**, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kandogan and Wang-Chiew Tan, "ExtremeReader: An interactive explorer for customizable and explainable review summarization", In theWebConf (WWW) 2020 (Demo track)
 * Zhengjie Miao, **Yuliang Li**, Xiaolan Wang, Wang-Chiew Tan, "Snippext: Semi-supervised Opinion Mining with Augmented Data", In theWebConf (WWW) 2020 [[ArXiv]](https://arxiv.org/abs/2002.03049) [[Slides]](https://www.dropbox.com/s/p5tuc9964f1nrim/opinedb.pptx?dl=0) [[Code]](https://github.com/rit-git/Snippext_public)
 * Xiong Zhang, Jonathan Engel, Sara Evensen, **Yuliang Li**, Çagatay Demiralp, Wang-Chiew Tan, "Teddy: A System for Interactive Review Analysis", In CHI 2020 [[Paper]](https://hci.stanford.edu/~cagatay/projects/teddy/Teddy-CHI20.pdf) [[Video]](https://vimeo.com/384454119)  [[Code]](https://github.com/megagonlabs/teddy)
@@ -34,6 +35,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In PODS 2016 [[Link]](https://cseweb.ucsd.edu/~vianu/pods16.pdf) [[ArXiv]](http://arxiv.org/abs/1604.00967) [[Slides]](https://www.dropbox.com/s/bxzy9me90s906h7/pods16.pptx?dl=0)
 
 ### Journal Papers
+* **Yuliang Li**, Aaron Xixuan Feng, Jinfeng Li, Shuwei Chen, Saran Mumick, Alon Halevy, Vivian Li, Wang-Chiew Tan, "Querying Subjective Data", To appear in VLDB Journal 2020 (invited paper) [[ArXiv]](https://arxiv.org/abs/1902.09661)
 * Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In TODS 2019, [[Link]](https://dl.acm.org/citation.cfm?id=3321487)
 * Alin Deutsch, Richard Hull, **Yuliang Li**, Victor Vianu, “Automatic Verification of Database-Centric Systems”, ACM SIGLOG News 5, 2 (April 2018), 37-56 [[Link]](http://www.cs.ox.ac.uk/andrzej.murawski/siglog_news_16.pdf)
 * Qiong Fang, Wilfred Ng, Jianlin Feng, **Yuliang Li**, “Mining Order-Preserving SubMatrices from Probabilistic Matrices,” ACM Transactions on Database Systems (TODS), volume 39, issue 1, Jan. 2014 [[Link]](http://www.cs.ust.hk/~wilfred/paper/tods14.pdf)
