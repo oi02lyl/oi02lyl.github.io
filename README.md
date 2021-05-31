@@ -14,6 +14,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 ### Conference Papers
 
 #### 2021
+* **Yuliang Li**, Xiaolan Wang, Zhengjie Miao, Wang-Chiew Tan, "Data Augmentation for ML-driven Data Preparation and Integration", In VLDB Tutorial 2021
 * Zhengjie Miao, **Yuliang Li**, Xiaolan Wang, "Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond", In SIGMOD 2021
 * Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, **Yuliang Li**, Jinfeng Li, Wang-Chiew Tan, "Constructing Explainable Opinion Graphs from Reviews", In theWebConf 2021 [[ArXiv]](https://arxiv.org/abs/2006.00119)
 * **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", In VLDB 2021 [[ArXiv]](https://arxiv.org/abs/2004.00584) [[Code]](https://github.com/megagonlabs/ditto) 
@@ -55,7 +56,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ## Services
 * Program committee for SIGMOD 2020, SIGMOD 2022, VLDB 2022
-* Reviewer for ACL 2021
+* Reviewer for ACL 2021, EMNLP 2021
 
 ## Teaching
 
@@ -64,19 +65,10 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * Teaching Assistant of CSE 233, Database Theory, 2016 Spring, 2018 Spring
 * Teaching Assistant of CSE 132A, Database System Principles, 2014 Spring
 
-## Selected Awards from Programming Contests
-
-* May 2012, ACM/ICPC World Finals (Warsaw, Poland), The 36th Place
-* November 2011, ACM/ICPC Asia Regional Contest, Fukuoka Site, The Fourth Place
-* November 2011, ACM/ICPC Asia Regional Contest, Phuket Site, The Third Place
-* June 2011, ACM Hong Kong Chapter Local Contest, The First Place
-* May 2011, ACM/ICPC World Finals (Orlando, US), Honourable Mention
-* December 2010, ACM/ICPC Asia Regional Contest, Kuala Lumpur Site, The Third Place
-* November 2010, ACM/ICPC Asia Regional Contest, Hanoi Site, The Third Place
-* September 2010, HKUST Programming Contest, The First Place
-* November 2009, ACM/ICPC Asia Regional Contest, Seoul Site, The Third Place
 
 ## Selected Awards
 * SIGMOD 2016 Travel Award
 * UCSD Jacobs PhD Fellowship (2012 - 2015)
 * The HKUST Academic Achievement Medal
+* May 2012, ACM/ICPC World Finals (Warsaw, Poland), The 36th Place
+* May 2011, ACM/ICPC World Finals (Orlando, US), Honourable Mention
