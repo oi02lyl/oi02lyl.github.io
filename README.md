@@ -14,8 +14,9 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 ### Conference Papers
 
 #### 2021
-* **Yuliang Li**, Xiaolan Wang, Zhengjie Miao, Wang-Chiew Tan, "Data Augmentation for ML-driven Data Preparation and Integration", In VLDB Tutorial 2021
-* Zhengjie Miao, **Yuliang Li**, Xiaolan Wang, "Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond", In SIGMOD 2021
+* Jin Wang, **Yuliang Li**, Wataru Hirota, "Machamp: A Generalized Entity Matching Benchmark", In CIKM 2021 [[ArXiv]](https://arxiv.org/abs/2106.08455v) [[Datasets]](https://github.com/megagonlabs/machamp)
+* **Yuliang Li**, Xiaolan Wang, Zhengjie Miao, Wang-Chiew Tan, "Data Augmentation for ML-driven Data Preparation and Integration", In VLDB Tutorial 2021 [[Link]](http://vldb.org/pvldb/vol14/p3182-li.pdf) [[Videos]](https://www.youtube.com/playlist?list=PLj4y_dpHi4eLwo1NGHo2lM18Xk6nUtAJj) [[Slides]](https://vldb.org/2021/files/slides/tutorial/tutorial7.pdf)
+* Zhengjie Miao, **Yuliang Li**, Xiaolan Wang, "Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond", In SIGMOD 2021 [[Link]](https://dl.acm.org/doi/abs/10.1145/3448016.3457258) [[Blog]](https://megagon.ai/blog/rotom-a-meta-learned-data-augmentation-framework-for-entity-matching-data-cleaning-text-classification-and-beyond/) [[Demo]](http://rotomdemo.megagon.info/) [[Code]](https://github.com/megagonlabs/rotom)
 * Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, **Yuliang Li**, Jinfeng Li, Wang-Chiew Tan, "Constructing Explainable Opinion Graphs from Reviews", In theWebConf 2021 [[ArXiv]](https://arxiv.org/abs/2006.00119)
 * **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, AnHai Doan, Wang-Chiew Tan, "Deep Entity Matching with Pre-Trained Language Models", In VLDB 2021 [[ArXiv]](https://arxiv.org/abs/2004.00584) [[Code]](https://github.com/megagonlabs/ditto) 
 
@@ -40,14 +41,16 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 * **Yuliang Li**, "Verification of Hierarchical Data-Driven Workflows", 2018 [[link]](https://escholarship.org/uc/item/00q5p2t3) [[slides]](https://www.dropbox.com/s/ybc7vy30395cjdi/dissertation.pptx?dl=0)
 
 ### Pre-print
+
+* Yoshihiko Suhara, Jinfeng Li, **Yuliang Li**, Dan Zhang, Çagatay Demiralp, Chen Chen, Wang-Chiew Tan, 
+"Annotating Columns with Pre-trained Language Models", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2104.01785)
 * Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, **Yuliang Li**, Yoshihiko Suhara, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan, "Enhancing Review Comprehension with Domain-Specific Commonsense.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.03020)
-* Nofar Carmeli, Xiaolan Wang, Yoshihiko Suhara, Stefanos Angelidis, **Yuliang Li**, Jinfeng Li, Wang-Chiew Tan, "ExplainIt: Explainable Review Summarization with Opinion Causality Graphs.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2006.00119)
 * Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2003.13968)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
 
 ### Journal Papers
-* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, Jin Wang, Wataru Hirota, Wang-Chiew Tan, "Deep Entity Matching: Challenges and Opportunities", To Appear in JDIQ 2020 (invited paper)
-* **Yuliang Li**, Jianguo Wang, Benjamin Pullman, Nuno Bandeira, Yannis Papakonstantinou, "Index-based High-dimensional Cosine Threshold Querying with Optimality Guarantees", In ToCS 2020 (inivted paper, bests of ICDT 2019)
+* **Yuliang Li**, Jinfeng Li, Yoshihiko Suhara, Jin Wang, Wataru Hirota, Wang-Chiew Tan, "Deep Entity Matching: Challenges and Opportunities", In JDIQ 2020 (invited paper) [[Link]](https://dl.acm.org/doi/10.1145/3431816)
+* **Yuliang Li**, Jianguo Wang, Benjamin Pullman, Nuno Bandeira, Yannis Papakonstantinou, "Index-based High-dimensional Cosine Threshold Querying with Optimality Guarantees", In ToCS 2020 (inivted paper, bests of ICDT 2019) [[Link]](https://link.springer.com/article/10.1007/s00224-020-10009-6)
 * **Yuliang Li**, Aaron Xixuan Feng, Jinfeng Li, Shuwei Chen, Saran Mumick, Alon Halevy, Vivian Li, Wang-Chiew Tan, "Querying Subjective Data", In VLDB Journal 2020 (invited paper, bests of VLDB 2019) [[Paper]](https://link.springer.com/article/10.1007/s00778-020-00634-5) [[ArXiv]](https://arxiv.org/abs/1902.09661)
 * Alin Deutsch, **Yuliang Li**, Victor Vianu, "Verification of Hierarchical Artifact Systems," In TODS 2019, [[Link]](https://dl.acm.org/citation.cfm?id=3321487)
 * Alin Deutsch, Richard Hull, **Yuliang Li**, Victor Vianu, “Automatic Verification of Database-Centric Systems”, ACM SIGLOG News 5, 2 (April 2018), 37-56 [[Link]](http://www.cs.ox.ac.uk/andrzej.murawski/siglog_news_16.pdf)
