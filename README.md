@@ -15,6 +15,11 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ### Conference Papers
 
+#### 2022
+* Yu-Ching Hu, **Yuliang Li**, Hung-Wei Tseng, "TCUDB: Accelerating Database with Tensor Processors", To Appear in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2112.07552.pdf)
+* Yoshihiko Suhara, Jinfeng Li, **Yuliang Li**, Dan Zhang, Cagatay Demiralp, Chen Chen, Wang-Chiew Tan, "Annotating Columns with Pre-trained Language Models", To Appear in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2104.01785.pdf)
+
+
 #### 2021
 * Jin Wang, **Yuliang Li**, Wataru Hirota, "Machamp: A Generalized Entity Matching Benchmark", In CIKM 2021 [[ArXiv]](https://arxiv.org/abs/2106.08455v) [[Datasets]](https://github.com/megagonlabs/machamp)
 * **Yuliang Li**, Xiaolan Wang, Zhengjie Miao, Wang-Chiew Tan, "Data Augmentation for ML-driven Data Preparation and Integration", In VLDB Tutorial 2021 [[Link]](http://vldb.org/pvldb/vol14/p3182-li.pdf) [[Videos]](https://www.youtube.com/playlist?list=PLj4y_dpHi4eLwo1NGHo2lM18Xk6nUtAJj) [[Slides]](https://vldb.org/2021/files/slides/tutorial/tutorial7.pdf)
@@ -44,8 +49,6 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ### Pre-print
 
-* Yoshihiko Suhara, Jinfeng Li, **Yuliang Li**, Dan Zhang, Çagatay Demiralp, Chen Chen, Wang-Chiew Tan, 
-"Annotating Columns with Pre-trained Language Models", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2104.01785)
 * Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, **Yuliang Li**, Yoshihiko Suhara, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan, "Enhancing Review Comprehension with Domain-Specific Commonsense.", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2004.03020)
 * Aaron Feng, Shuwei Chen, **Yuliang Li**, Hiroshi Matsuda, Hidekazu Tamaki, Wang-Chiew Tan, "Towards Productionizing Subjective Search Systems", arXiv preprint, 2020 [[ArXiv]](https://arxiv.org/abs/2003.13968)
 * **Yuliang Li**, Alin Deutsch, Victor Vianu, "SpinArt: A Spin-based Verifier for Artifact Systems", arXiv preprint, 2017 [[ArXiv]](https://arxiv.org/abs/1705.09427) [[Slides]](https://www.dropbox.com/s/vohuazds85fmh6q/spinart.pptx?dl=0)
