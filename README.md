@@ -16,8 +16,11 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 ### Conference Papers
 
 #### 2022
-* Yu-Ching Hu, **Yuliang Li**, Hung-Wei Tseng, "TCUDB: Accelerating Database with Tensor Processors", To Appear in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2112.07552.pdf)
-* Yoshihiko Suhara, Jinfeng Li, **Yuliang Li**, Dan Zhang, Cagatay Demiralp, Chen Chen, Wang-Chiew Tan, "Annotating Columns with Pre-trained Language Models", To Appear in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2104.01785.pdf)
+
+* Jin Wang, **Yuliang Li**, "Minun: Evaluating Counterfactual Explanations for Entity Matching", in DEEM 2022 (co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1FV7zJdSUfK4foeu5vq_B_PgtNnOZqfbn/view)
+* Jin Wang, **Yuliang Li**, Wataru Hirota, Eser Kandogan, "Machop: an End-to-End Generalized Entity Matching Framework", in aiDM 2022 (co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1YeLlq2JtYshD2M8yRAliE2EY1YEaJv60/view?usp=sharing)
+* Yu-Ching Hu, **Yuliang Li**, Hung-Wei Tseng, "TCUDB: Accelerating Database with Tensor Processors", in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2112.07552.pdf)
+* Yoshihiko Suhara, Jinfeng Li, **Yuliang Li**, Dan Zhang, Cagatay Demiralp, Chen Chen, Wang-Chiew Tan, "Annotating Columns with Pre-trained Language Models", in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2104.01785.pdf)
 
 
 #### 2021
