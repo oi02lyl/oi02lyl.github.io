@@ -17,6 +17,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 #### 2022
 
+* Runhui Wang, **Yuliang Li**, Jin Wang, "Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation", in [[ArXiv]](https://arxiv.org/abs/2207.04122)
 * Jin Wang, **Yuliang Li**, "Minun: Evaluating Counterfactual Explanations for Entity Matching", in DEEM 2022 (**Best paper award**, co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1FV7zJdSUfK4foeu5vq_B_PgtNnOZqfbn/view)
 * Jin Wang, **Yuliang Li**, Wataru Hirota, Eser Kandogan, "Machop: an End-to-End Generalized Entity Matching Framework", in aiDM 2022 (co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1YeLlq2JtYshD2M8yRAliE2EY1YEaJv60/view?usp=sharing)
 * Yu-Ching Hu, **Yuliang Li**, Hung-Wei Tseng, "TCUDB: Accelerating Database with Tensor Processors", in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2112.07552.pdf)
