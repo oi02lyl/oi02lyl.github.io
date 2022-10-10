@@ -1,12 +1,10 @@
 # Yuliang Li
 
-Email: [yuliang@megagon.ai](mailto:yuliang@megagon.ai)
-
 ## About me
 
-I am a senior research scientist at [Megagon Labs](http://www.megagon.ai/). Before joining Megagon, I received a PhD degree in Computer Science from [UC San Diego](http://www.cs.ucsd.edu/) (UCSD), advised by [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/). I have worked on research topics in data management, database theory, and natural language processing. In particular, my recent research interests have been focusing on applying machine learning techniques to data preparation and integration tasks, including entity matching, data cleaning, data discovery, and table annotation.
+I am an AI research scientist at Meta. Before Meta, I was a senior research scientist Before at [Megagon Labs](https://megagon.ai/). I have worked on research topics in data management, database theory, and natural language processing. In particular, my recent research interests have been focusing on applying machine learning techniques to data preparation and integration tasks, including entity matching, data cleaning, data discovery, and table annotation.
 
-My PhD thesis is on the Verification of Data-driven workflows, a research direction that lies in the intersection of Database Theory, Software Model Checking, and Business Process Management. Before UCSD,  I obtained my undergraduate degree in Computer Science from [Hong Kong University of Science and Technology](http://www.ust.hk). 
+Before joining Megagon, I received a PhD degree in Computer Science from [UC San Diego](http://www.cs.ucsd.edu/) (UCSD), advised by [Alin Deutsch](http://db.ucsd.edu/People/alin/) and [Victor Vianu](https://cseweb.ucsd.edu/~vianu/). My PhD thesis is on the Verification of Data-driven workflows, a research direction that lies in the intersection of Database Theory, Software Model Checking, and Business Process Management. Before UCSD,  I obtained my undergraduate degree in Computer Science from [Hong Kong University of Science and Technology](http://www.ust.hk). 
 
 I was an intern in [Google Research](https://research.google.com/) during 2013 Summer and in [Microsoft Research](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) during 2014 Summer. I was an intern at [IBM Thomas J. Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml) during 2017 Summer.
 
@@ -17,6 +15,7 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 #### 2022
 
+* Grace Fan, Jin Wang, **Yuliang Li**, Dan Zhang, and Renée Miller. "Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning." in [[ArXiv]](https://arxiv.org/pdf/2210.01922.pdf)
 * Runhui Wang, **Yuliang Li**, Jin Wang, "Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation", in [[ArXiv]](https://arxiv.org/abs/2207.04122)
 * Jin Wang, **Yuliang Li**, "Minun: Evaluating Counterfactual Explanations for Entity Matching", in DEEM 2022 (**Best paper award**, co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1FV7zJdSUfK4foeu5vq_B_PgtNnOZqfbn/view)
 * Jin Wang, **Yuliang Li**, Wataru Hirota, Eser Kandogan, "Machop: an End-to-End Generalized Entity Matching Framework", in aiDM 2022 (co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1YeLlq2JtYshD2M8yRAliE2EY1YEaJv60/view?usp=sharing)
