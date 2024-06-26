@@ -13,10 +13,22 @@ I was an intern in [Google Research](https://research.google.com/) during 2013 S
 
 ### Conference Papers
 
+#### 2024
+
+* Bryan Wang, *Yuliang Li*, Zhaoyang Lv, Haijun Xia, Yan Xu, Raj Sodhi, "LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing", IUI 2024 [[Link]](https://arxiv.org/abs/2402.10294) [[Video]](https://www.youtube.com/watch?v=t3jAqp0D3FI)
+
+#### 2023
+
+* Wang-Chiew Tan, Jane Dwivedi-Yu, *Yuliang Li*, Lambert Mathias, Marzieh Saeidi, Jing Nathan Yan, Alon Y. Halevy, "TimelineQA: A Benchmark for Question Answering over Timelines", ACL (Findings) 2023 [[Repo]](https://github.com/facebookresearch/TimelineQA)
+
+* Wang-Chiew Tan, *Yuliang Li*, Pedro Rodriguez, Richard James, Xi Victoria Lin, Alon Y. Halevy, Wen-tau Yih, "Reimagining Retrieval Augmented Language Models for Answering Queries", ACL (Findings) 2023 [[Link]](https://arxiv.org/abs/2306.01061)
+
+* *Yuliang Li*, Nitin Kamra, Ruta Desai, Alon Y. Halevy, "Human-Centered Planning", ArXiv 2023 [[Link]](https://arxiv.org/abs/2311.04403)
+
 #### 2022
 
-* Grace Fan, Jin Wang, **Yuliang Li**, Dan Zhang, and Renée Miller. "Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning." To Appear in VLDB 2023 [[ArXiv]](https://arxiv.org/pdf/2210.01922.pdf)
-* Runhui Wang, **Yuliang Li**, Jin Wang, "Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation", To Appear in ICDE 2023 in [[ArXiv]](https://arxiv.org/abs/2207.04122)
+* Grace Fan, Jin Wang, **Yuliang Li**, Dan Zhang, and Renée Miller. "Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning." in VLDB 2023 [[ArXiv]](https://arxiv.org/pdf/2210.01922.pdf)
+* Runhui Wang, **Yuliang Li**, Jin Wang, "Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation", in ICDE 2023 in [[ArXiv]](https://arxiv.org/abs/2207.04122)
 * Jin Wang, **Yuliang Li**, "Minun: Evaluating Counterfactual Explanations for Entity Matching", in DEEM 2022 (**Best paper award**, co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1FV7zJdSUfK4foeu5vq_B_PgtNnOZqfbn/view)
 * Jin Wang, **Yuliang Li**, Wataru Hirota, Eser Kandogan, "Machop: an End-to-End Generalized Entity Matching Framework", in aiDM 2022 (co-located w. SIGMOD) [[Link]](https://drive.google.com/file/d/1YeLlq2JtYshD2M8yRAliE2EY1YEaJv60/view?usp=sharing)
 * Yu-Ching Hu, **Yuliang Li**, Hung-Wei Tseng, "TCUDB: Accelerating Database with Tensor Processors", in SIGMOD 2022 [[ArXiv]](https://arxiv.org/pdf/2112.07552.pdf)
